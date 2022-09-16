@@ -27,6 +27,12 @@ if login_attempt == loginpass:
     print("good")
 
 else:
+<<<<<<< HEAD
     print("bad") 
 print("hu")
 .
+=======
+    print("bad")
+
+print("whats up pc")
+>>>>>>> 8d0af8d249f9065f7aec93c46747e3dfc0866a90
