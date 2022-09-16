@@ -14,25 +14,3 @@ else:
 loginacc = account_name
 loginpass = account_pass
 login_attempt = input("Login \n User:")
-
-if login_attempt == loginacc:
-    print("Correct")
-
-else:
-    print("Try again")
-
-login_attempt = input("Password:  ")
-
-if login_attempt == loginpass:
-    print("good")
-
-else:
-<<<<<<< HEAD
-    print("bad") 
-print("hu")
-.
-=======
-    print("bad")
-
-print("whats up pc")
->>>>>>> 8d0af8d249f9065f7aec93c46747e3dfc0866a90
