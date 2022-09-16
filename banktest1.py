@@ -28,3 +28,5 @@ if login_attempt == loginpass:
 
 else:
     print("bad")
+
+print("whats up pc")
